@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IzukoGaen
 - 👀 I’m interested in Video Games,Lecture,Anime
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python,Data structures, Databases,ETl
+- I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
