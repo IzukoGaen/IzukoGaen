@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @IzukoGaen
-- 👀 I’m interested in Video Games,Lecture,Anime
-- 🌱 I’m currently learning Python,Data structures, Databases,ETl
-- I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Victor Portillo 👋
 
-<!---
-IzukoGaen/IzukoGaen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Engineer** based in Monterrey, Mexico 🇲🇽
+Software Technology Engineering student at UANL (FIME)
+
+I build data pipelines, automation tools, and data infrastructure,
+working at the intersection of data engineering and operations.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL
+**Data & Infrastructure:** Dremio · Google Cloud Storage · data lakehouse architecture
+**Backend & Apps:** FastAPI · Dash
+**Cloud & DevOps:** Azure · AKS
+**AI:** LLM agent workflows and tooling
+
+## 🌱 Currently
+
+- Deepening my data engineering skills (orchestration, transformation, lakehouse deployment)
+- Working toward cloud and data engineering certifications
+
+## 📫 Contact
+
+- LinkedIn: <your-link>
+- Email: <your-email>
+
+🌎 Fluent in English and Spanish
